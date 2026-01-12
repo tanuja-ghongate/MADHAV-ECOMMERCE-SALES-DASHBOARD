@@ -45,4 +45,4 @@ The dataset includes:
 
 Screenshots
 Show what the dashboard lool like.
-Example:
+Example: https://github.com/tanuja-ghongate/Madhav-Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Image.png
