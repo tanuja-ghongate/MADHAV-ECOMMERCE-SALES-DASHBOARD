@@ -30,7 +30,6 @@ The dataset includes:
 - State
 - Category / Sub-category
 - Customer name
-- Image :<img width="1321" height="741" alt="Dashboard Image" src="https://github.com/user-attachments/assets/1bc8ddf1-b589-456d-ae60-d71ce907328d" />
 
 🌟 Features & Highlights
 - KPI Cards for quick performance overview
