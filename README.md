@@ -20,9 +20,9 @@ The dashboard is designed with interactive visuals and slicers, allowing users t
 
 📂 Data Source
 The dataset includes:
-- Order details
+- Order details:
      "https://github.com/tanuja-ghongate/Madhav-Ecommerce-Sales-Dashboard/blob/main/Details%20(1)....csv"
-- Dashboard Image
+- Dashboard Image:
      "https://github.com/tanuja-ghongate/Madhav-Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Image.png"
 - Sales amount
 - Quantity
@@ -30,6 +30,7 @@ The dataset includes:
 - State
 - Category / Sub-category
 - Customer name
+- Image :<img width="1321" height="741" alt="Dashboard Image" src="https://github.com/user-attachments/assets/1bc8ddf1-b589-456d-ae60-d71ce907328d" />
 
 🌟 Features & Highlights
 - KPI Cards for quick performance overview
